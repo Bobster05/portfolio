@@ -1,0 +1,7 @@
+
+*.log
+*.pot
+*.pic
+__pycashe__/
+losal_setings.py
+/static/
