@@ -5,3 +5,4 @@
 __pycashe__/
 losal_setings.py
 /static/
+/portfolio_django/local_settings.py
